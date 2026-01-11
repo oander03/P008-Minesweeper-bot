@@ -4,6 +4,10 @@ Code is was made in the way that mimics how I play the game so it might not be t
 
 Video is example of how to set up  
 
+
+https://github.com/user-attachments/assets/f34a03a8-4937-4c36-a435-dfca0b20b9b3
+
+
 The reason for the resting between moves is because the animations of minesweeper get in the way of the screenshot. It can go faster but with less accuracy.  
 
 May ‎15, ‎2025
