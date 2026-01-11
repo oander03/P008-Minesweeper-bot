@@ -18,7 +18,13 @@ https://github.com/user-attachments/assets/f34a03a8-4937-4c36-a435-dfca0b20b9b3
 ```bash
 #packages:
 import pyautogui
+import pyautogui as pag
+import random
+import time
+import numpy as np
+import win32api, win32con
 import mss
+from pyclick import HumanClicker
 ```
 ## Notes
 
